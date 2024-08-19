@@ -13,7 +13,7 @@ I am a passionate software engineer with an expertise in web development. My jou
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,ts,css,react,java,cpp)](https://skillicons.dev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spencercheney&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spencercheney&layout=compact)
 
 <!--
 **spencercheney/spencercheney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
