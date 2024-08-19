@@ -10,6 +10,9 @@ I am a passionate software engineer with an expertise in web development. My jou
 - 💻 My expertise in web development is focused on using a Java back-end with a Javascript-base front-end
 - 🔌 I have spent several years working in I.T. and networking improving other's experience using technology
 
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,c++)](https://skillicons.dev)
+
 <!--
 **spencercheney/spencercheney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
